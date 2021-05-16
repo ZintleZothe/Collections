@@ -1,5 +1,9 @@
 package za.ac.cput.Collections;
 
+
+ /* ADP term2 Assignment
+  *Author: Zintle Zothe_216130565
+ */
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedList;

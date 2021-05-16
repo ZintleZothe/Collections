@@ -1,5 +1,7 @@
 package za.ac.cput.Collections;
-
+/* Test class
+ *Author: Zintle Zothe_216130565
+ */
 import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;
@@ -7,6 +9,7 @@ import java.util.HashSet;
 import java.util.LinkedList;
 
 import static org.junit.jupiter.api.Assertions.*;
+
 
 class CompanyTest {
     @Test
