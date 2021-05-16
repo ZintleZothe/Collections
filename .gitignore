@@ -1,0 +1,4 @@
+#Files to ignore
+#IntelliJ specific folders
+/.idea/
+*.iml
